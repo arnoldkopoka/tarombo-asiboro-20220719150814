@@ -447,8 +447,8 @@
       "value": "UTF-8"
     },
     "date": {
-      "time": "22:21:12",
-      "value": "19 JUL 2022"
+      "time": "07:55:19",
+      "value": "20 JUL 2022"
     },
     "file": "tree.json",
     "gedc": {
@@ -579,7 +579,7 @@
         {
           "_type": "married",
           "typeTag": "TYPE",
-          "value": "Marged /Simpson/"
+          "value": "Marge /Simpson/"
         },
         {
           "_type": "birth",
