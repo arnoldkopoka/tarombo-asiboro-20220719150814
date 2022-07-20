@@ -447,7 +447,7 @@
       "value": "UTF-8"
     },
     "date": {
-      "time": "10:19:40",
+      "time": "14:25:01",
       "value": "20 JUL 2022"
     },
     "file": "tree.json",
@@ -459,7 +459,7 @@
     "sour": {
       "name": "Family Gem",
       "value": "FAMILY_GEM",
-      "vers": "0.2.2 (81dd6a7)"
+      "vers": "0.2.2 (ac8eda1)"
     },
     "submRef": "U1"
   },
@@ -579,7 +579,7 @@
         {
           "_type": "married",
           "typeTag": "TYPE",
-          "value": "Marge /Simpsoned/"
+          "value": "Marge /Simpsoneth/"
         },
         {
           "_type": "birth",
