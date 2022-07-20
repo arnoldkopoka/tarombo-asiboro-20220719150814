@@ -447,7 +447,7 @@
       "value": "UTF-8"
     },
     "date": {
-      "time": "07:48:39",
+      "time": "07:55:19",
       "value": "20 JUL 2022"
     },
     "file": "tree.json",
@@ -579,7 +579,7 @@
         {
           "_type": "married",
           "typeTag": "TYPE",
-          "value": "Marged /Simpsons/"
+          "value": "Marge /Simpson/"
         },
         {
           "_type": "birth",
