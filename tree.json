@@ -447,7 +447,7 @@
       "value": "UTF-8"
     },
     "date": {
-      "time": "07:55:19",
+      "time": "10:36:42",
       "value": "20 JUL 2022"
     },
     "file": "tree.json",
@@ -501,7 +501,7 @@
       "id": "I1",
       "names": [
         {
-          "value": "Homer /Simpson/"
+          "value": "Homered /Simpson/"
         },
         {
           "_type": "birth",
